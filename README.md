@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/qL29MpWx/shahriar.jpg" width="900" height="400" style="border-radius:16px; object-fit:cover; box-shadow:0 10px 50px rgba(0,0,0,0.4); background: linear-gradient(135deg, #1e90ff, #00d4c9);" />
+  <img src="https://i.ibb.co/qL29MpWx/shahriar.jpg" width="600" height="400" style="border-radius:16px; object-fit:cover; box-shadow:0 10px 50px rgba(0,0,0,0.4); background: linear-gradient(135deg, #1e90ff, #00d4c9);" />
 </p>
 
 <p align="center">
@@ -8,17 +8,19 @@
 
 ---
 
+## 🔗 Connect With Me
 <p align="center">
-  <a href="#about-me">About</a> • 
-  <a href="#tech-stack">Tech Stack</a> • 
-  <a href="#languages-skills">Languages & Skills</a> • 
-  <a href="#connect-with-me">Connect</a> • 
-  <a href="#github-achievements">Achievements</a>
+  <a href="https://github.com/soumicshahriar"><img src="https://skillicons.dev/icons?i=github" height="50" style="margin:5px;"/></a>
+  <a href="https://www.facebook.com/share/17PutEW2dT/?mibextid=wwXIfr" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" height="50" style="margin:5px;"/>
+</a>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+
 I’m a **MERN Stack Developer** building **modern, responsive, and visually appealing web apps**.  
 I focus on **clean UI**, **optimized backend**, and **scalable full-stack solutions**.
 
@@ -69,17 +71,6 @@ I focus on **clean UI**, **optimized backend**, and **scalable full-stack soluti
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://github.com/soumicshahriar"><img src="https://skillicons.dev/icons?i=github" height="50" style="margin:5px;"/></a>
-  <a href="https://www.facebook.com/share/17PutEW2dT/?mibextid=wwXIfr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" height="50" style="margin:5px;"/>
-</a>
-
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soumicshahriar&theme=radical&margin-w=15&no-frame=true" />
@@ -89,8 +80,8 @@ I focus on **clean UI**, **optimized backend**, and **scalable full-stack soluti
 
 ## 🔥 Contributions & Streak
 <p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/soumicshahriar/contributions?format=svg&private=true" />
-  <img src="https://streak-stats.demolab.com/?user=soumicshahriar&theme=radical" />
+  <img width='300' height='300' src="https://api.vaunt.dev/v1/github/entities/soumicshahriar/contributions?format=svg&private=true" />
+  <img width='400' height='400' src="https://streak-stats.demolab.com/?user=soumicshahriar&theme=radical" />
 </p>
 
 ---
