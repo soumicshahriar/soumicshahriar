@@ -3,8 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00d4c9&center=true&width=650&lines=Hi+there+👋,+I'm+Soumic+Shahriar;🚀+MERN+Stack+Developer+%7C+Frontend+Specialist" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=2EB4981D&center=true&vCenter=true&width=650&height=300&lines=Hi+There+%F0%9F%91%8B%2C+I+am+Soumic+Shahriar+;%F0%9F%9A%80+A+MERN+Stack+Developer++%7C+Front-end+Specialist"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
+
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00d4c9&center=true&width=650&lines=Hi+there+👋,+I'm+Soumic+Shahriar;🚀+MERN+Stack+Developer+%7C+Frontend+Specialist" alt="Typing Animation" /> 
+</p> -->
+
 
 ---
 
