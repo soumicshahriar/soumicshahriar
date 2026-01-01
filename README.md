@@ -2,6 +2,8 @@
   <img src="https://i.ibb.co/qL29MpWx/shahriar.jpg" width="600" height="400" style="border-radius:16px; object-fit:cover; box-shadow:0 10px 50px rgba(0,0,0,0.4); background: linear-gradient(135deg, #1e90ff, #00d4c9);" />
 </p> -->
 
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -21,13 +23,20 @@
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
-  <a href="https://github.com/soumicshahriar"><img src="https://skillicons.dev/icons?i=github" height="50" style="margin:5px;"/></a>
-  <a href="https://www.facebook.com/share/17PutEW2dT/?mibextid=wwXIfr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" height="50" style="margin:5px;"/>
-</a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumic-shahriar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/soumic.shahriar/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
+<!-- <p align="center" style="background-color:#0D1117; border-radius:15px;">
+  <a href="..."><img src="facebook.svg" /></a>
+  <a href="..."><img src="linkedin.svg" /></a>
+</p> -->
 
 ---
 
