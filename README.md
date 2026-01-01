@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/qL29MpWx/shahriar.jpg" width="600" height="400" style="border-radius:16px; object-fit:cover; box-shadow:0 10px 50px rgba(0,0,0,0.4); background: linear-gradient(135deg, #1e90ff, #00d4c9);" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
