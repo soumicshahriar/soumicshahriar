@@ -58,12 +58,12 @@
 ### 📈 Metrics & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumicshahriar&theme=radical&no-frame=true&column=4" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=soumicshahriar&theme=radical&no-frame=true&column=4" /> -->
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=soumicshahriar&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soumicshahriar&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=soumicshahriar&show_icons=true&theme=radical&hide_border=true" width="48%" /> -->
 </p>
 
 <p align="center">
@@ -71,4 +71,5 @@
 </p>
 
 ---
+
 
